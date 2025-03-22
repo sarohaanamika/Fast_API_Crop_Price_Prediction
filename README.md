@@ -51,8 +51,8 @@ Before running the project, ensure you have the following installed:
 
 
 ### ReDoc
-![ReDoc](<img width="1440" alt="Screenshot 2025-03-22 at 4 08 27 PM" src="https://github.com/user-attachments/assets/8bfcdc38-3447-4782-97e9-e5880774591e" />
-)
+<img width="1440" alt="Screenshot 2025-03-22 at 4 08 27 PM" src="https://github.com/user-attachments/assets/8bfcdc38-3447-4782-97e9-e5880774591e" />
+
 
 
 ## Dataset
