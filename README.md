@@ -49,6 +49,11 @@ crop-price-prediction-api/
 
   ReDoc: http://127.0.0.1:8000/redoc
 
+
+### ReDoc
+![ReDoc]()
+
+
 ## Dataset
 The dataset used for training the model is Wholesale-Price-Index-from-2012-to-2024.csv. It contains historical crop prices from 2012 to 2024.
 
