@@ -1,0 +1,10 @@
+# requirements.txt - Updated for better compatibility
+fastapi>=0.104.1
+uvicorn>=0.24.0
+pandas>=2.0.0,<2.1.0  # Using an earlier version that might be more compatible
+numpy>=1.24.0
+scikit-learn>=1.3.0
+tensorflow>=2.14.0
+joblib>=1.3.0
+pydantic>=2.4.0
+python-multipart>=0.0.6
