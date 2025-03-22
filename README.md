@@ -28,15 +28,15 @@ Before running the project, ensure you have the following installed:
 
 ## PROJECT STRUCTURE 
 
-crop-price-prediction-api/
-├── main.py                  # FastAPI application
-├── requirements.txt         # List of dependencies
-├── scaler.pkl               # MinMaxScaler for price normalization
-├── label_encoder.pkl        # LabelEncoder for crop names
-├── scaler_features.pkl      # MinMaxScaler for additional features
-├── my_model.keras           # Trained LSTM model
-├── Wholesale-Price-Index-from-2012-to-2024.csv  # Dataset
-└── README.md                # This file
+      crop-price-prediction-api/
+      ├── main.py                  # FastAPI application
+      ├── requirements.txt         # List of dependencies
+      ├── scaler.pkl               # MinMaxScaler for price normalization
+      ├── label_encoder.pkl        # LabelEncoder for crop names
+      ├── scaler_features.pkl      # MinMaxScaler for additional features
+      ├── my_model.keras           # Trained LSTM model
+      ├── Wholesale-Price-Index-from-2012-to-2024.csv  # Dataset
+      └── README.md                # This file
 
 ## RUNNING THE API 
  1. Start the Fast API Server 
@@ -51,7 +51,8 @@ crop-price-prediction-api/
 
 
 ### ReDoc
-![ReDoc]()
+![ReDoc](<img width="1440" alt="Screenshot 2025-03-22 at 4 08 27 PM" src="https://github.com/user-attachments/assets/8bfcdc38-3447-4782-97e9-e5880774591e" />
+)
 
 
 ## Dataset
